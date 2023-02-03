@@ -3,5 +3,5 @@
 
 Now including:
 
-- fenwick tree
-- disjoint set union
+- **Fenwick tree**
+- **Disjoint Set Union**
