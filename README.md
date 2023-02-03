@@ -5,3 +5,4 @@ Now including:
 
 - **Fenwick tree**
 - **Disjoint Set Union**
+- **Tree (including lca)**
